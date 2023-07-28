@@ -1,7 +1,5 @@
 let generateur = Math.floor(Math.random()*3);
 
-
-
 switch(generateur){
     case 1 :
         console.log('hey salut');
@@ -10,7 +8,7 @@ switch(generateur){
         console.log('hey tu vas bien?');
         break;
     case 3 :
-        console.log('hey se passe ta journée');
+        console.log('hey comment se passé ta journée');
         break;
     default :
     console.log('echec et math');
