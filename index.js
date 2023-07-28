@@ -1,6 +1,8 @@
-let generatuer = Math.floor(Math.random()*3);
+let generateur = Math.floor(Math.random()*3);
 
-switch(generatuer){
+
+
+switch(generateur){
     case 1 :
         console.log('hey salut');
         break;
