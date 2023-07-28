@@ -1,0 +1,15 @@
+let generatuer = Math.floor(Math.random()*3);
+
+switch(generatuer){
+    case 1 :
+        console.log('hey salut');
+        break;
+    case 2 :
+        console.log('hey tu vas bien?');
+        break;
+    case 3 :
+        console.log('hey tu vas bien?');
+        break;
+    default :
+    console.log('echec et math');
+};
