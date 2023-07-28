@@ -10,7 +10,7 @@ switch(generateur){
         console.log('hey tu vas bien?');
         break;
     case 3 :
-        console.log('hey tu vas bien?');
+        console.log('hey se passe ta journée');
         break;
     default :
     console.log('echec et math');
